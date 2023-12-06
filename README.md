@@ -21,4 +21,4 @@ Source: https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-databa
 
 **In my exploration of this data I will be exploring the following questions:**
   1. Is the popularity of a genre affected by its type, i.e., whether it is a TV series, movie, or OVA?
-  2. What is the relationship between genre and rating?
+  2. What is the relationship between the rating of a show and its membership numbers?
