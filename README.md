@@ -20,3 +20,5 @@ This dataset has been sourced from Kaggle. It consists of information on user pr
 **In my exploration of this data I will be exploring the following questions:**
   1. Is the popularity of a genre affected by its type, i.e., whether it is a TV series, movie, or OVA?
   2. What is the relationship between genre and rating?
+
+Source: https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database/data#
